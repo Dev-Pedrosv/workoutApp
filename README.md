@@ -1,2 +1,2 @@
 # workoutApp
-Confira a aplicação <a href="https://dev-pedrosv.github.io/workoutApp/">aqui.</a>
+Confira a aplicação <a href="https://aulaworkoutapp.netlify.app">aqui.</a>
